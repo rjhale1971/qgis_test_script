@@ -1,0 +1,7 @@
+I don't thve a MAC. I'm also trying to help someonewith a MAC and I can't fiigure out why this won't run. 
+
+I know these two things need to set for MAC: 
+
+*   QgsApplication.setPrefixPath("Applications/QGIS-LTR.app/Contents/MacOS",True)
+
+*   sys.path.append("Applications/QGIS-LTR.app/Contents/Resources/python/plugins")
