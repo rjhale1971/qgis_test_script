@@ -1,4 +1,4 @@
-I don't thve a MAC. I'm also trying to help someonewith a MAC and I can't fiigure out why this won't run. 
+I don't thve a MAC. I'm also trying to help someonewith a MAC and I can't fiigure out why this won't run. It needs to run headless in a terminal window. 
 
 Currently this runs with Ubuntu and QGIS 3.28. I know these two things need to set for MAC and I assume more needs to be set: 
 
