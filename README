@@ -1,7 +1,11 @@
 I don't thve a MAC. I'm also trying to help someonewith a MAC and I can't fiigure out why this won't run. 
 
-I know these two things need to set for MAC: 
+Currently this runs with Ubuntu and QGIS 3.28. I know these two things need to set for MAC and I assume more needs to be set: 
 
 *   QgsApplication.setPrefixPath("Applications/QGIS-LTR.app/Contents/MacOS",True)
 
 *   sys.path.append("Applications/QGIS-LTR.app/Contents/Resources/python/plugins")
+
+Script is loaded up here as test.py. To run: python3 test.py 
+
+The end result will be the help for the grass7:v.buffer command. 
