@@ -1,6 +1,10 @@
 #!/usr/bin/python3 
 
 import sys
+
+# Inject plugin path, might need to be tweaked significantly. Sure there's more missing.
+sys.path.insert(0, "/Applications/QGIS.app/Contents/Resources/python/plugins")
+
 from qgis.core import (
      QgsApplication, 
      QgsProcessingFeedback, 
